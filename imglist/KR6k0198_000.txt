@@ -1,0 +1,2 @@
+001-0922b00	TKD 47-0376a	buddhist/K-koreana/47-tif/0300-0399/47_0376_A.TIF
+000-0922c05	TKD 47-0376b	buddhist/K-koreana/47-tif/0300-0399/47_0376_B.TIF
