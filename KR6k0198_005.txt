@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:09.985192
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 慈悲道場懺法
 #+PROPERTY: CBETA_ID T45n1909
 #+PROPERTY: ID KR6k0198
@@ -15,7 +15,7 @@
  慈悲道場懺法卷第五¶
 ¶
 
-3解怨釋結
+* 3解怨釋結
 :PROPERTIES:
 :head: 解怨釋結第三
 :END:

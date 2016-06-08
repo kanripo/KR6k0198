@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:09.962574
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 慈悲道場懺法
 #+PROPERTY: CBETA_ID T45n1909
 #+PROPERTY: ID KR6k0198
@@ -166,7 +166,7 @@
 勇猛精進不休不息。乃至進修滿十地行。復¶
 能度脫一切眾生(一拜)。¶
 
-2出地獄
+* 2出地獄
 :PROPERTIES:
 :head: 出地獄第二(向已具述因緣果報以業不善墜在惡道故復相續顯地獄門)
 :END:
