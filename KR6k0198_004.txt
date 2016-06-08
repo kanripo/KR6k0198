@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:09.962574
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 慈悲道場懺法
 #+PROPERTY: CBETA_ID T45n1909
 #+PROPERTY: ID KR6k0198
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1909
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0198_T_000-0922b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0198_T_004-0937b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 慈悲道場懺法卷第四¶
+慈悲道場懺法卷第四¶
 ¶
 
-:PROPERTIES:
-:head: 顯果報之餘
-:END:
-¶
+* 顯果報之餘¶
 
 今日道場同業大眾。重加至誠一心諦聽。佛¶
 在王舍城迦闌陀竹園。爾時目連從禪定起¶
@@ -166,11 +162,7 @@
 勇猛精進不休不息。乃至進修滿十地行。復¶
 能度脫一切眾生(一拜)。¶
 
-2出地獄
-:PROPERTIES:
-:head: 出地獄第二(向已具述因緣果報以業不善墜在惡道故復相續顯地獄門)
-:END:
-¶
+* 出地獄第二(向已具述因緣果報以業不善墜在惡道故復相續顯地獄門)¶
 
 今日道場同業大眾。雖復萬法差品功用不¶
 一。至於明闇相形。唯善與惡。語善則人天勝¶
